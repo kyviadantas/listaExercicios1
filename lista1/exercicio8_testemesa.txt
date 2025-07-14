@@ -1,0 +1,6 @@
+Iter | num | num%2==0 | pares | ímpares
+1    |  1  |  Falso  |  0   |   1
+2    |  2  |  Verd.  |  1   |   1
+3    |  3  |  Falso  |  1   |   2
+4    |  4  |  Verd.  |  2   |   2
+5    |  5  |  Falso  |  2   |   3
